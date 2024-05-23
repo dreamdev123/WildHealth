@@ -36,14 +36,14 @@
   "project": {
     "version": "2.0.24",
     "restore": {
-      "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
+      "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
       "projectName": "WildHealth.Application",
-      "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
+      "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Application\\obj\\",
+      "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+        "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,7 +52,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
       },
@@ -60,107 +59,107 @@
         "net6.0": {
           "targetAlias": "netcoreapp6.0",
           "projectReferences": {
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj"
             },
-            "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj": {
-              "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj"
+            "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj"
             }
           }
         }
@@ -170,11 +169,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -286,40 +280,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'EPPlusFree.4.5.3.8' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/epplusfree/4.5.3.8/epplusfree.4.5.3.8.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/epplusfree/4.5.3.8/epplusfree.4.5.3.8.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'WildHealth.Infrastructure.Communication.MessageBus.1.4.3' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/wildhealth.infrastructure.communication.messagebus/1.4.3/wildhealth.infrastructure.communication.messagebus.1.4.3.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/wildhealth.infrastructure.communication.messagebus/1.4.3/wildhealth.infrastructure.communication.messagebus.1.4.3.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'LaunchDarkly.ServerSdk.6.2.0' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/launchdarkly.serversdk/6.2.0/launchdarkly.serversdk.6.2.0.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/launchdarkly.serversdk/6.2.0/launchdarkly.serversdk.6.2.0.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'SendGrid.9.24.2' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/sendgrid/9.24.2/sendgrid.9.24.2.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/sendgrid/9.24.2/sendgrid.9.24.2.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'Handlebars.Net.2.0.2' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/handlebars.net/2.0.2/handlebars.net.2.0.2.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/handlebars.net/2.0.2/handlebars.net.2.0.2.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'WildHealth.Infrastructure.Communication.Messages.1.4.3' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/wildhealth.infrastructure.communication.messages/1.4.3/wildhealth.infrastructure.communication.messages.1.4.3.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/wildhealth.infrastructure.communication.messages/1.4.3/wildhealth.infrastructure.communication.messages.1.4.3.nupkg' has timed out after 100000ms."
-    }
-  ]
+  }
 }

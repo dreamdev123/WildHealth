@@ -68,4 +68,10 @@
     <ProjectReference Include="..\WildHealth.Elation.Clients\WildHealth.Elation.Clients.csproj" />
     <ProjectReference Include="..\WildHealth.Google.Maps.Clients\WildHealth.Google.Maps.Clients.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WildHealth.Shared">
+      <HintPath>..\..\WildHealth-Shared-main\WildHealth.Shared\bin\Release\netcoreapp6.0\WildHealth.Shared.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>

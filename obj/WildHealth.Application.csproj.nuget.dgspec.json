@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj": {}
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj": {}
   },
   "projects": {
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj": {
       "version": "2.0.24",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
         "projectName": "WildHealth.Application",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Application\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -23,7 +23,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -31,107 +30,107 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj"
               }
             }
           }
@@ -141,11 +140,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -257,21 +251,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj",
         "projectName": "WildHealth.Authorization",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Authorization\\WildHealth.Authorization.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Authorization\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Authorization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -280,7 +274,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -288,11 +281,11 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj"
               }
             }
           }
@@ -301,11 +294,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -345,21 +333,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj",
         "projectName": "WildHealth.AzureCognitiveServices.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\WildHealth.AzureCognitiveServices.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.AzureCognitiveServices.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -368,7 +356,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -382,11 +369,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -418,21 +400,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj",
         "projectName": "WildHealth.BackgroundJobs",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\WildHealth.BackgroundJobs.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.BackgroundJobs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -441,7 +423,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -455,11 +436,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -495,21 +471,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj",
         "projectName": "WildHealth.ChangeHealthCare.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\WildHealth.ChangeHealthCare.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ChangeHealthCare.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -518,7 +494,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -532,11 +507,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -576,21 +546,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj",
         "projectName": "WildHealth.ClarityCore",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -599,7 +569,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -607,8 +576,8 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               }
             }
           }
@@ -617,11 +586,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -653,21 +617,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj",
         "projectName": "WildHealth.Common",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -676,7 +640,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -684,11 +647,11 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj"
               }
             }
           }
@@ -697,11 +660,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -741,21 +699,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj",
         "projectName": "WildHealth.Domain.Models",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -764,7 +722,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -772,11 +729,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               }
             }
           }
@@ -786,11 +743,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -822,21 +774,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj",
         "projectName": "WildHealth.Domain",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -845,7 +797,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -853,8 +804,8 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj"
               }
             }
           }
@@ -863,11 +814,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -899,21 +845,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj",
         "projectName": "WildHealth.Elation.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -922,7 +868,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -930,14 +875,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
               }
             }
           }
@@ -946,11 +891,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -990,21 +930,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj",
         "projectName": "WildHealth.EventSourcing",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1013,7 +953,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1028,11 +967,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1060,21 +994,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj",
         "projectName": "WildHealth.Fhir",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Fhir\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Fhir\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1083,7 +1017,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1097,11 +1030,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1133,21 +1061,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj",
         "projectName": "WildHealth.Google.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Clients\\WildHealth.Google.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1156,7 +1084,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1170,11 +1097,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1210,21 +1132,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj",
         "projectName": "WildHealth.Google.Maps.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\WildHealth.Google.Maps.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Google.Maps.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1233,7 +1155,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1247,11 +1168,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1279,21 +1195,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj": {
       "version": "3.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj",
         "projectName": "WildHealth.HealthReport",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.HealthReport\\WildHealth.HealthReport.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.HealthReport\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.HealthReport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1302,7 +1218,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1310,20 +1225,20 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ClarityCore\\WildHealth.ClarityCore.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
               }
             }
           }
@@ -1332,11 +1247,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1364,21 +1274,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj",
         "projectName": "WildHealth.Hint.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1387,7 +1297,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1395,8 +1304,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj"
               }
             }
           }
@@ -1405,11 +1314,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1431,21 +1335,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj",
         "projectName": "WildHealth.Hint.Common",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\WildHealth.Hint.Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Common\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1454,7 +1358,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1468,11 +1371,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1504,21 +1402,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj",
         "projectName": "WildHealth.Infrastructure.Data",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\WildHealth.Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1527,7 +1425,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1535,14 +1432,14 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.EventSourcing\\WildHealth.EventSourcing.csproj"
               }
             }
           }
@@ -1551,11 +1448,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1609,21 +1501,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj",
         "projectName": "WildHealth.Infrastructure.EmailFactory",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\WildHealth.Infrastructure.EmailFactory.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Infrastructure.EmailFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1632,7 +1524,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1640,8 +1531,8 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               }
             }
           }
@@ -1650,11 +1541,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1686,21 +1572,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj",
         "projectName": "WildHealth.Inputs",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Inputs\\WildHealth.Inputs.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Inputs\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Inputs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1709,7 +1595,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1717,11 +1602,11 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               }
             }
           }
@@ -1733,11 +1618,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1773,21 +1653,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj": {
       "version": "1.15.6",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj",
         "projectName": "WildHealth.IntegrationApi",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.IntegrationApi\\WildHealth.IntegrationApi.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.IntegrationApi\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.IntegrationApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1796,7 +1676,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1810,11 +1689,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1850,21 +1724,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj",
         "projectName": "WildHealth.Integration",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1873,7 +1747,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1881,29 +1754,29 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Elation.Clients\\WildHealth.Elation.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Hint.Clients\\WildHealth.Hint.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj"
               }
             }
           }
@@ -1912,11 +1785,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1956,21 +1824,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj",
         "projectName": "WildHealth.Jenny.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\WildHealth.Jenny.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Jenny.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1979,7 +1847,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -1987,8 +1854,8 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               }
             }
           }
@@ -1997,11 +1864,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2037,21 +1899,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj",
         "projectName": "WildHealth.Kit.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Kit.Clients\\WildHealth.Kit.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Kit.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Kit.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2060,7 +1922,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2068,17 +1929,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain.Models\\WildHealth.Domain.Models.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
               }
             }
           }
@@ -2087,11 +1948,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2123,21 +1979,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj",
         "projectName": "WildHealth.LaunchDarkly.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\WildHealth.LaunchDarkly.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.LaunchDarkly.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2146,7 +2002,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2160,11 +2015,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2196,21 +2046,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj",
         "projectName": "WildHealth.Lob.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Lob.Clients\\WildHealth.Lob.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Lob.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Lob.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2219,7 +2069,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2233,11 +2082,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2265,21 +2109,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj",
         "projectName": "WildHealth.Northpass.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\WildHealth.Northpass.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Northpass.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2288,7 +2132,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2296,8 +2139,8 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
               }
             }
           }
@@ -2306,11 +2149,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2338,21 +2176,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj",
         "projectName": "WildHealth.OpenPM.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\WildHealth.OpenPM.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.OpenPM.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2361,7 +2199,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2369,14 +2206,14 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Fhir\\WildHealth.Fhir.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
               }
             }
           }
@@ -2385,11 +2222,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2433,21 +2265,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj",
         "projectName": "WildHealth.Redash.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Redash.Clients\\WildHealth.Redash.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Redash.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Redash.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2456,7 +2288,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2470,11 +2301,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2502,21 +2328,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj",
         "projectName": "WildHealth.Settings",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2525,7 +2351,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2533,8 +2358,8 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Domain\\WildHealth.Domain.csproj"
               }
             }
           }
@@ -2543,11 +2368,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2575,21 +2395,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj",
         "projectName": "WildHealth.ShipEngine.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\WildHealth.ShipEngine.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipEngine.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2598,7 +2418,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2612,11 +2431,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2644,21 +2458,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj",
         "projectName": "WildHealth.ShipStation.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\WildHealth.ShipStation.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.ShipStation.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2667,7 +2481,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2681,11 +2494,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2713,21 +2521,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj",
         "projectName": "WildHealth.TimeKit.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\WildHealth.TimeKit.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TimeKit.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2736,7 +2544,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2750,11 +2557,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2786,21 +2588,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj",
         "projectName": "WildHealth.TinyURL.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\WildHealth.TinyURL.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TinyURL.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2809,7 +2611,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2823,11 +2624,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2867,21 +2663,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj",
         "projectName": "WildHealth.TrueDiagnostic",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\WildHealth.TrueDiagnostic.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.TrueDiagnostic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2890,7 +2686,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2904,11 +2699,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -2944,21 +2734,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj",
         "projectName": "WildHealth.Twilio.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\WildHealth.Twilio.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Twilio.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2967,7 +2757,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -2981,11 +2770,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -3025,21 +2809,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj",
         "projectName": "WildHealth.Waystar.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\WildHealth.Waystar.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Waystar.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -3048,7 +2832,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -3056,11 +2839,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Common\\WildHealth.Common.csproj"
               },
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Settings\\WildHealth.Settings.csproj"
               }
             }
           }
@@ -3069,11 +2852,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -3105,21 +2883,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj": {
+    "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj",
         "projectName": "WildHealth.Zoom.Clients",
-        "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj",
+        "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\WildHealth.Zoom.Clients.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Zoom.Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "d:\\workspace\\csharp\\WildHealth-Api-main\\NuGet.Config",
+          "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\NuGet.Config",
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -3128,7 +2906,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/WildHealth.NuGet/nuget/v3/index.json": {}
         },
@@ -3136,8 +2913,8 @@
           "net6.0": {
             "targetAlias": "netcoreapp6.0",
             "projectReferences": {
-              "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj": {
-                "projectPath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj"
+              "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj": {
+                "projectPath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Integration\\WildHealth.Integration.csproj"
               }
             }
           }
@@ -3146,11 +2923,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -3194,7 +2966,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.422\\RuntimeIdentifierGraph.json"
         }
       }
     }

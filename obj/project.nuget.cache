@@ -1,39 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v3QiSE9LJ/k=",
+  "dgSpecHash": "5kIOaFQvLZS5vSCwYJWodGKwS/msC7odoEBpfnGG2XKkOnrjrqm9Ew5erborzT3CSLTz/4ie3yaZtpnSFGXC2g==",
   "success": false,
-  "projectFilePath": "d:\\workspace\\csharp\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
+  "projectFilePath": "D:\\workspace\\csharp\\WildHealth\\WildHealth-Api-main\\WildHealth.Application\\WildHealth.Application.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'EPPlusFree.4.5.3.8' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/epplusfree/4.5.3.8/epplusfree.4.5.3.8.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/epplusfree/4.5.3.8/epplusfree.4.5.3.8.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'WildHealth.Infrastructure.Communication.MessageBus.1.4.3' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/wildhealth.infrastructure.communication.messagebus/1.4.3/wildhealth.infrastructure.communication.messagebus.1.4.3.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/wildhealth.infrastructure.communication.messagebus/1.4.3/wildhealth.infrastructure.communication.messagebus.1.4.3.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'LaunchDarkly.ServerSdk.6.2.0' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/launchdarkly.serversdk/6.2.0/launchdarkly.serversdk.6.2.0.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/launchdarkly.serversdk/6.2.0/launchdarkly.serversdk.6.2.0.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'SendGrid.9.24.2' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/sendgrid/9.24.2/sendgrid.9.24.2.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/sendgrid/9.24.2/sendgrid.9.24.2.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'Handlebars.Net.2.0.2' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/handlebars.net/2.0.2/handlebars.net.2.0.2.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/handlebars.net/2.0.2/handlebars.net.2.0.2.nupkg' has timed out after 100000ms."
-    },
-    {
-      "code": "Undefined",
-      "level": "Error",
-      "message": "Failed to download package 'WildHealth.Infrastructure.Communication.Messages.1.4.3' from 'https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/wildhealth.infrastructure.communication.messages/1.4.3/wildhealth.infrastructure.communication.messages.1.4.3.nupkg'.\r\nThe HTTP request to 'GET https://pkgs.dev.azure.com/varyenceusa/8bd47303-0786-40bb-a64a-d1894e8bfe6d/_packaging/92d91787-f64e-4f9f-91da-1a18ee0b0eeb/nuget/v3/flat2/wildhealth.infrastructure.communication.messages/1.4.3/wildhealth.infrastructure.communication.messages.1.4.3.nupkg' has timed out after 100000ms."
-    }
-  ]
+  "logs": []
 }
